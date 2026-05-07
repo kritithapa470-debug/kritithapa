@@ -16,7 +16,7 @@
 - 🌱 I'm currently learning **Data Structures & Algorithms** and **Web Development**
 - 💡 Passionate about building things with code
 - 🇳🇵 Based in Nepal
-- 📫 How to reach me: *[add your email here]*
+- 📫 How to reach me: *[kritithapa470@gmail.com]*
 
 ---
 
