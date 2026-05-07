@@ -41,11 +41,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Kriti's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritithapa470-debug&show_icons=true&theme=tokyonight" alt="Kriti's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritithapa470-debug&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F75C7E&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kritithapa470-debug&color=F75C7E&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">⭐️ <i>"The journey of a thousand miles begins with a single line of code."</i> ⭐️</p>
