@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kriti Thapa 👋</h1>
 
 <p align="center">
-  🎓 BCSIT Student at Pokhara University &nbsp;|&nbsp; 2nd Semester &nbsp;|&nbsp; 📍 Nepal
+  🎓 BCSIT Student at Pokhara University &nbsp;|&nbsp; 2nd Semester  📍 Nepal
 </p>
 
 <p align="center">
