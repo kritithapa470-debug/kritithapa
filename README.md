@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Kriti Thapa 👋</h1>
 
 <p align="center">
-  🎓 BCSIT Student at Pokhara University &nbsp;|&nbsp; 2nd Semester  📍 Nepal
+  🎓 BCSIT Student at Pokhara University &nbsp;|&nbsp; 2nd Semester &nbsp;|&nbsp; 📍 Nepal
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435lines=BCSIT+Student+%40+Pokhara+University;Learning+%26+Growing+Every+Day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=BCSIT+Student+%40+Pokhara+University;Learning+%26+Growing+Every+Day!" alt="Typing SVG" />
 </p>
 
 ---
